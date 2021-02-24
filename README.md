@@ -1,6 +1,4 @@
 ## green1052
- 
-### Stats
 
 <div align="center">
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -9,6 +7,8 @@
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div>
+
+<br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=green1052)](https://github.com/anuraghazra/github-readme-stats)
 
