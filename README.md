@@ -13,3 +13,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=green1052&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=green1052&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+<h4>안녕하세요 저는 스타 강도에요. 스타 주세요</h4>
+<img src="https://cdn.discordapp.com/attachments/796578433466761226/814086666162929684/1738f2df23c508040.jpg">
+  
