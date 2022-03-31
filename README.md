@@ -1,6 +1,6 @@
 # green1052
 
-My website: [green1052.com](https://green1052.develope.kr)
+My website: [green1052.develope.kr](https://green1052.develope.kr)
 
 ![green1052's GitHub stats](https://github-readme-stats.vercel.app/api?username=green1052&count_private=true&show_icons=true&theme=city_lights&bg_color=ffffff00&hide_border=true)
 
