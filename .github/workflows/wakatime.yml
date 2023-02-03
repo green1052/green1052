@@ -17,3 +17,4 @@ jobs:
           UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
+          SHOW_TIMEZONE: "False"
