@@ -7,7 +7,7 @@ My website: [green1052.com](https://green1052.com)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=green1052&langs_count=15&layout=compact&theme=city_lights&bg_color=ffffff00&hide_border=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -48,14 +48,14 @@ Sunday                   104 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 1 min         ███████████████████░░░░░░   76.18 % 
-JSON                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Vue.js                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+TypeScript               4 hrs 44 mins       █████████████████░░░░░░░░   69.32 % 
+JSON                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Vue.js                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 🔥 Editors: 
-IntelliJ                 7 hrs 53 mins       █████████████████████████   100.00 % 
+IntelliJ                 6 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,5 +75,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/green1052/green1052/main/assets/bar_graph.png)
 
 
- Last Updated on 2023-03-04 01:44:00 UTC
+ Last Updated on 2023-03-05 01:59:05 UTC
 <!--END_SECTION:waka-->
