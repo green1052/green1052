@@ -7,13 +7,13 @@ My website: [green1052.com](https://green1052.com)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=green1052&langs_count=15&layout=compact&theme=city_lights&bg_color=ffffff00&hide_border=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 3.2 MB Used in GitHub's Storage 
+> 📦 3.3 MB Used in GitHub's Storage 
  > 
 > 🏆 369 Contributions in the Year 2023
  > 
@@ -48,14 +48,14 @@ Sunday                   104 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 4 mins        ██████████████████░░░░░░░   70.21 % 
-Vue.js                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-JavaScript               40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+TypeScript               4 hrs 2 mins        ██████████████████░░░░░░░   70.83 % 
+JavaScript               48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Vue.js                   35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 Editors: 
-IntelliJ                 5 hrs 48 mins       █████████████████████████   100.00 % 
+IntelliJ                 5 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,5 +75,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/green1052/green1052/main/assets/bar_graph.png)
 
 
- Last Updated on 2023-03-10 01:50:56 UTC
+ Last Updated on 2023-03-11 01:35:05 UTC
 <!--END_SECTION:waka-->
